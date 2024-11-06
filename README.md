@@ -5,8 +5,8 @@ Add a new comment in the input. On button click the comment should be added to l
 
 ### Solution 
 
-[Try the solution here](https://html-preview.github.io/?url=https://github.com/evgeniya-sotirova/tmp-repo/blob/main/problem2-comments-list/commentsList.html)
-[See a GIF of the solution here](./problem2-comments-list/Recording%202024-11-06%20120647.gif)
+* [Try the solution here](https://html-preview.github.io/?url=https://github.com/evgeniya-sotirova/tmp-repo/blob/main/problem2-comments-list/commentsList.html)
+* [See a GIF of the solution here](./problem2-comments-list/Recording%202024-11-06%20120647.gif)
 
 # Problem 3
 
@@ -15,5 +15,7 @@ Given a list of checkbox items, when unchecking an item, show in red the affecte
 
 To run the solution you need Node.js, and React.js. Then `npm start` in folder 'problem3-status-check'.
 
-[See a GIF of the solution here](./problem3-status-check/StatusCheck-Screen%20Recording%202024-11-06%20112903.gif)
+### Solution
+
+* [See a GIF of the solution here](./problem3-status-check/StatusCheck-Screen%20Recording%202024-11-06%20112903.gif)
 
