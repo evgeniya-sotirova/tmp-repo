@@ -9,7 +9,7 @@ function App() {
         <span>Dependencies</span>
       </div>
       <div>
-        <img src={depImage}/>
+        <img src={depImage} alt="Dependency diagram"/>
       </div>
       <StatusCheck />
     </div>
