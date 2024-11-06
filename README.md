@@ -13,7 +13,10 @@ Add a new comment in the input. On button click the comment should be added to l
 ### Description
 Given a list of checkbox items, when unchecking an item, show in red the affected items according to the dependency diagram. 
 
-To run the solution you need Node.js, and React.js. Then `npm start` in folder 'problem3-status-check'.
+To run the solution:
+* Install [Node.js](https://nodejs.org/en/download/prebuilt-installer).
+* Run `npm install` in the folder 'problem3-status-check'. 
+* Then `npm start` in the same folder 'problem3-status-check'.
 
 ### Solution
 
